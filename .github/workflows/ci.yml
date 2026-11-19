@@ -1,0 +1,14 @@
+name: Test and validate
+on:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - run: sleep "$PAUSE"; test "$RESULT" != fail
+        env:
+          PAUSE: ${{ vars.TEST_SLEEP }}
+          RESULT: ${{ vars.TEST_RESULT }}
