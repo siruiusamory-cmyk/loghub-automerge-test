@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ext-gvp2t5evruov",
+  "title": "Legacy of Goku II Kai",
+  "developer": "Ace",
+  "description": "Legacy of Goku II Kai is a fan-made overhaul of Dragon Ball Z: The Legacy of Goku II for Game Boy Advance. Featuring rebalanced combat, revamped character progression, improved transformations, tougher enemies, updated visuals, and an expanded post-game, Kai aims to preserve the original experience while building upon it. Beta 2 includes four main gameplay variants: Kai, EXP Boost, Casual, and Insanity, alongside three experimental Randomizers, offering different ways to experience the game. Made by a fan, for the fans.",
+  "game": "legacy-of-goku-2",
+  "category": "rom-hack",
+  "status": "in-development",
+  "source": {
+    "type": "forum",
+    "url": "https://www.reddit.com/r/LegacyofGokuKai/comments/1xkg28a/legacy_of_goku_ii_kai_beta_2_is_here_happy/"
+  },
+  "distribution": {
+    "label": "Download Patch",
+    "url": "https://www.dropbox.com/scl/fi/vh61mvnsxzp0198emnr7h/Legacy-Of-Goku-Kai-Beta-2.zip?rlkey=3syb1oyh7jyhbgoho0uhh3hge&st=b6hw6oew&dl=0",
+    "kind": "patch"
+  },
+  "links": [
+    {
+      "label": "Kai Subreddit",
+      "url": "https://www.reddit.com/r/LegacyofGokuKai/"
+    }
+  ],
+  "screenshots": [],
+  "cover": "cover.png",
+  "approved_at": "2026-11-17T16:04:15Z"
+}
