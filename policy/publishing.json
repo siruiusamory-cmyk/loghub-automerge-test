@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "trusted_owner_ids": [],
+  "revoked_owner_ids": [],
+  "projects": [
+    {
+      "repository_id": 1458327252,
+      "owner_id": 287528505,
+      "decision": "delisted",
+      "reason": "Isolated integration fixture; never a production community listing"
+    },
+    {
+      "repository_id": 1432341427,
+      "owner_id": 287528505,
+      "project_id": "gh-1432341427",
+      "decision": "approved",
+      "content_digests": [
+        "a8b29226cd12fafd8ba279d0458de8f742fb9989fc3a28f3d2ae0346e74bf772"
+      ],
+      "artwork_sets": [
+        [
+          {
+            "source_sha256": "301720d00eb92b4ea1181aed68909766ac2e606d18bd521313aa9bdfe69600ac",
+            "sha256": "c2ec54f55f8b6cc498b57e63a20ce144b289821c484ed28f3be8790b73e30525"
+          }
+        ]
+      ],
+      "approved_issue": 31,
+      "approved_digest": "223fa76d9a2224ccba7104e530148f228c20b0d31e9bfd6ca20b3703429cb7c3"
+    },
+    {
+      "repository_id": 1429374563,
+      "owner_id": 287528505,
+      "project_id": "gh-1429374563",
+      "decision": "approved",
+      "content_digests": [
+        "7c56dac2b91b33ade27da34d07db8337294bd5429d02795f5e0a8c01e7115233"
+      ],
+      "artwork_sets": [
+        [
+          {
+            "source_sha256": "75d1a65a48d9213cae722a21bd1841c39f28606f6022ec43685e87f54e36dc4e",
+            "sha256": "a29a07a94f2a2db5c847793e340d0a57f69501e90a68ad72dc95c3e4ed79f73d"
+          }
+        ]
+      ],
+      "approved_issue": 32,
+      "approved_digest": "b9abf0e2887bda72afe5ecc2e6d2c713c00a7c81ebefe861adc0f23c9fe199f3"
+    },
+    {
+      "repository_id": 1398951057,
+      "owner_id": 287528505,
+      "project_id": "gh-1398951057",
+      "decision": "approved",
+      "content_digests": [
+        "d16454320d4ca4b06bf7e7af586b270d4770e3a8dbb1522b00199583391ccd03"
+      ],
+      "artwork_sets": [
+        [
+          {
+            "source_sha256": "ce5e032c00ba1198bb3e7d2709273a040bd79f0e61340ba88366fc4326e4da91",
+            "sha256": "d9ff717a7f5bf6c2556972dc5a5fa760a034541e940c3eb2654c0c24b7a19e2c"
+          }
+        ]
+      ],
+      "approved_issue": 33,
+      "approved_digest": "a8e3d67a64741b341e17e59b99247eb1f6536a79d0a6905c04527086ce1bc877"
+    }
+  ],
+  "external_projects": [
+    {
+      "project_id": "ext-gcshm2l3av3q",
+      "decision": "approved",
+      "content_digests": [
+        "3e38831a5d9cf0e3421bc2b396c8c1a242709deca2f735ed2d70eee1ff87cb82"
+      ],
+      "artwork_sets": [
+        [
+          {
+            "source_sha256": "1cca787c5094fde8f2af2a2ff0446c41ca02f08f6d98507f0ff49eeb5248303b",
+            "sha256": "f50ec1086049bc27a78b5c3e736f41e292779746b2f43716d9af769820201f23"
+          },
+          {
+            "source_sha256": "1f249a1ead0819aad457ecca17827351aef94d38655563d28435212380168a1f",
+            "sha256": "8f4c8ee10dffd20a4da6092f317694d54eeaaa90714bae785575095485343b3a"
+          },
+          {
+            "source_sha256": "6265bab351cd1f3855583d2d34d6a65d031b6ad25014c4eff6563363794b7987",
+            "sha256": "810c1338cd79a58df3a762bfa75d4b596a8392ebc5994ae06eb3f5c25ce147a1"
+          },
+          {
+            "source_sha256": "d1e003b5966ec43489ec358ca0bfa8289b28502c7867ccf0ec2361668bd17549",
+            "sha256": "e9c618162ca70b08b4db1a5e45c7e468db94f77090ad1a32fd95f314381b4196"
+          }
+        ]
+      ]
+    },
+    {
+      "project_id": "ext-gvp2t5evruov",
+      "decision": "approved",
+      "content_digests": [
+        "4c6c11ce45c9daeb9fdbf65beb98439f5f8b3998f600b50a7a1f42022bc7bc06"
+      ],
+      "artwork_sets": [
+        [
+          {
+            "source_sha256": "978281c15bfd8e8f69f87ba96f283d41613d37460c35f70e1dc0e1f779d87b25",
+            "sha256": "51441a2c60a68aedd4f85cacdfdbdb84bca5a503ecf6324ea3305bfe35fd131a"
+          }
+        ]
+      ],
+      "featured": true
+    },
+    {
+      "project_id": "ext-mkclhutzqjew",
+      "decision": "approved",
+      "content_digests": [
+        "3b57ffd3abf3351c30fec37ce749e6f7757900b4630ad6529325abb67464868b",
+        "4c1f17b25403e1ad4c163d6904d5e6b61d860896d34b539596565358167b55c9"
+      ],
+      "artwork_sets": [
+        []
+      ]
+    },
+    {
+      "project_id": "gh-1131874995",
+      "owner_id": 127344248,
+      "decision": "approved",
+      "content_digests": [
+        "f26531340a78e66bf9a604dd6d1d02f4661b868005e0116c83f42325d81e7a13"
+      ],
+      "artwork_sets": [
+        []
+      ],
+      "featured": false
+    },
+    {
+      "project_id": "gh-1418576969",
+      "owner_id": 306419822,
+      "decision": "approved",
+      "content_digests": [
+        "60ff7656b4ce98e9d10aaad8c4c3891d5ca24c2b92f97e6259d0ddb927ebef92"
+      ],
+      "artwork_sets": [
+        [
+          {
+            "source_sha256": "b35d3c431b2ab0e9f359f125307e1ea40e4872c7224c926f5cf05f581d76a6c0",
+            "sha256": "5e487c588fce875df0012e3b4ac7f407f76a96053680eda0c1aa3cca452a3da9"
+          },
+          {
+            "source_sha256": "1c9ad273babc2432283629fa8680a3c9c04ff3c8edbf363305fce85b9c1f622a",
+            "sha256": "d0a72b488d6665d07a890a1ccdb04a7a5f8273e1f57bf9e91ac94a407c11dedb"
+          }
+        ]
+      ]
+    }
+  ]
+}
